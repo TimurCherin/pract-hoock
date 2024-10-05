@@ -1,0 +1,19 @@
+{
+    "todolist": [
+        {
+            "name": "Do algebra HW",
+            "due_date": "2024-10-05",
+            "isDone": true
+        },
+        {
+            "name": "Wash dish",
+            "due_date": "2024-10-05",
+            "isDone": false
+        },
+        {
+            "name": "Clean room",
+            "due_date": "2024-10-05",
+            "isDone": false
+        }
+    ]
+}
